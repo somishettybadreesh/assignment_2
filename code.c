@@ -6,4 +6,6 @@ int main()
     int b = 2234;
     int sum = a+b;
     printf("%d",sum);
+    int dif = a-b;
+    printf("%d",dif);
 }
